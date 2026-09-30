@@ -1,0 +1,1 @@
+"Visualize the state space tree for N = 4 queens using backtracking, clearly marking valid nodes and invalid/pruned branches in red."

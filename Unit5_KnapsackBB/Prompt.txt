@@ -1,0 +1,1 @@
+"Illustrate bounding and pruning in a 0/1 Knapsack search tree using node upper bounds and fractional knapsack relaxation."

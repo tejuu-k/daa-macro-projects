@@ -1,0 +1,1 @@
+"Draw a binary tree showing the optimal merge pattern for files of sizes 10, 20, 30, and 40 using the Greedy approach, showing step-by-step cost accumulation."

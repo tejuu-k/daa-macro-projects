@@ -1,0 +1,2 @@
+Logical Explanation
+Unlike pure backtracking (DFS), Branch and Bound uses a Best-First Search guided by an upper bound calculated using fractional relaxation. If a node's upper bound is less than or equal to the current best scalar solution (maxProfit), the node is pruned, drastically reducing the search space.

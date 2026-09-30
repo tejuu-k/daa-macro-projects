@@ -1,0 +1,2 @@
+Logical Explanation
+Backtracking places queens row by row. If placing a queen in a column leads to a conflict (same column or diagonal), the algorithm prunes that branch (invalid state) and backtracks to try the next column in the previous row.

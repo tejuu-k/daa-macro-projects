@@ -1,0 +1,1 @@
+Logical Explanation :Merge Sort follows the Divide and Conquer strategy. For an array of size $N=8$, it recursively splits the array into halves until single-element sub-arrays are reached at depth $\log_2(8) = 3$. During the merge phase, elements are sorted and combined back up the tree, taking $O(N)$ work per level, leading to a total time complexity of $O(N \log N)$.

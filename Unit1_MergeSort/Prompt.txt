@@ -1,0 +1,1 @@
+"Draw a recursion tree for Merge Sort dividing an array of 8 elements [27, 10, 12, 20, 25, 13, 15, 22]. Show both the divide phase and merge steps clearly."

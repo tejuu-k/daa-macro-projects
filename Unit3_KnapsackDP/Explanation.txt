@@ -1,0 +1,2 @@
+Logical Explanation
+The DP table computes the maximum value attainable for every sub-capacity $w \in [0..10]$ using a subset of the first $i$ items. If an item's weight exceeds $w$, it is skipped. Otherwise, we take the maximum of excluding or including the item. The final optimal value is 13 (Items 1, 2, and 4).

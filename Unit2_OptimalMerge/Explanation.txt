@@ -1,0 +1,2 @@
+Logical Explanation
+The Greedy approach always selects the two smallest files to merge first. This minimizes the frequency with which larger files are re-read and written, ensuring a minimum Total External Path Length (WPL).

@@ -1,0 +1,1 @@
+"Draw a 0/1 Knapsack dynamic programming table for 4 items with weights w = [2, 3, 4, 5] and values v = [3, 4, 5, 6] with capacity W = 10."
